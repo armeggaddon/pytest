@@ -1,0 +1,6 @@
+pytest
+pytest-cov
+pytest-xdist
+pytest-asyncio
+hypothesis
+python-pptx
